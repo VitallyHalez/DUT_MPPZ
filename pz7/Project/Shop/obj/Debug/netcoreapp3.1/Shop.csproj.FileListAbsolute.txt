@@ -1,0 +1,89 @@
+C:\Users\325-П\Desktop\pz2\pz2\Project\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\325-П\Desktop\pz2\pz2\Project\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\325-П\Desktop\pz2\pz2\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\325-П\Desktop\pz2\pz2\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\325-П\Desktop\pz2\pz2\Project\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\325-П\Desktop\pz2\pz2\Project\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\325-П\Desktop\pz2\pz2\Project\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\325-П\Desktop\pz2\pz2\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\325-П\Desktop\pz2\pz2\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\325-П\Desktop\pz2\pz2\Project\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\325-П\Desktop\pz2\pz2\Project\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\saven\OneDrive\Рабочий стол\pz2\pz3\Project\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\saven\OneDrive\Рабочий стол\pz2\pz3\Project\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\saven\OneDrive\Рабочий стол\pz2\pz3\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\saven\OneDrive\Рабочий стол\pz2\pz3\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\saven\OneDrive\Рабочий стол\pz2\pz3\Project\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\saven\OneDrive\Рабочий стол\pz2\pz3\Project\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\saven\OneDrive\Рабочий стол\pz2\pz3\Project\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz2\pz3\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz2\pz3\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\saven\OneDrive\Рабочий стол\pz2\pz3\Project\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz2\pz3\Project\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\saven\OneDrive\Рабочий стол\pz2\pz3\Project\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\saven\OneDrive\Рабочий стол\pz2\pz3\Project\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz4\pz4\Project\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\saven\OneDrive\Рабочий стол\pz4\pz4\Project\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\saven\OneDrive\Рабочий стол\pz4\pz4\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\saven\OneDrive\Рабочий стол\pz4\pz4\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\saven\OneDrive\Рабочий стол\pz4\pz4\Project\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\saven\OneDrive\Рабочий стол\pz4\pz4\Project\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\saven\OneDrive\Рабочий стол\pz4\pz4\Project\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz4\pz4\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz4\pz4\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\saven\OneDrive\Рабочий стол\pz4\pz4\Project\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz4\pz4\Project\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\saven\OneDrive\Рабочий стол\pz4\pz4\Project\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\saven\OneDrive\Рабочий стол\pz4\pz4\Project\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz5\pz5\Project\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\saven\OneDrive\Рабочий стол\pz5\pz5\Project\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\saven\OneDrive\Рабочий стол\pz5\pz5\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\saven\OneDrive\Рабочий стол\pz5\pz5\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\saven\OneDrive\Рабочий стол\pz5\pz5\Project\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\saven\OneDrive\Рабочий стол\pz5\pz5\Project\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\saven\OneDrive\Рабочий стол\pz5\pz5\Project\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz5\pz5\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz5\pz5\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\saven\OneDrive\Рабочий стол\pz5\pz5\Project\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz5\pz5\Project\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\saven\OneDrive\Рабочий стол\pz5\pz5\Project\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\saven\OneDrive\Рабочий стол\pz5\pz5\Project\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_33_110521\pz5.1\pz5.1\Project\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_33_110521\pz5.1\pz5.1\Project\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_33_110521\pz5.1\pz5.1\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_33_110521\pz5.1\pz5.1\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_33_110521\pz5.1\pz5.1\Project\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_33_110521\pz5.1\pz5.1\Project\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_33_110521\pz5.1\pz5.1\Project\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_33_110521\pz5.1\pz5.1\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_33_110521\pz5.1\pz5.1\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_33_110521\pz5.1\pz5.1\Project\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_33_110521\pz5.1\pz5.1\Project\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_33_110521\pz5.1\pz5.1\Project\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_33_110521\pz5.1\pz5.1\Project\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_250521\pz6\pz7\Project\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_250521\pz6\pz7\Project\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_250521\pz6\pz7\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_250521\pz6\pz7\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_250521\pz6\pz7\Project\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_250521\pz6\pz7\Project\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_250521\pz6\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_250521\pz6\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_250521\pz6\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_250521\pz6\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_250521\pz6\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_250521\pz6\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Игорь\Desktop\ПЗ_ПД-34_250521\pz6\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz7\pz7\Project\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\saven\OneDrive\Рабочий стол\pz7\pz7\Project\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\saven\OneDrive\Рабочий стол\pz7\pz7\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\saven\OneDrive\Рабочий стол\pz7\pz7\Project\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\saven\OneDrive\Рабочий стол\pz7\pz7\Project\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\saven\OneDrive\Рабочий стол\pz7\pz7\Project\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\saven\OneDrive\Рабочий стол\pz7\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.AssemblyReference.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz7\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz7\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\saven\OneDrive\Рабочий стол\pz7\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\saven\OneDrive\Рабочий стол\pz7\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\saven\OneDrive\Рабочий стол\pz7\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\saven\OneDrive\Рабочий стол\pz7\pz7\Project\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
